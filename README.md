@@ -16,8 +16,5 @@ I'm Jiyeon. I'm studying web front-end development.
 🤙 Contact
 → jangjiyeon0410@gmail.com
 
-☑️ Check out my Web-Portfolio here!  
-→ <a href="https://jiyeonjang.cafe24.com/profile">Infinite Possibilities<a>  
-
 
 
